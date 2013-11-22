@@ -1,5 +1,7 @@
 #!/usr/local/bin/perl
 
+# You should execute this script used by crontab.
+
 use strict;
 use warnings;
 
